@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433865927224",
+    "project_id": "test-firebase-b29cf",
+    "storage_bucket": "test-firebase-b29cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433865927224:android:193da8db37d4b0a943d4cd",
+        "android_client_info": {
+          "package_name": "com.EMANDI.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433865927224-dcbm7q927608rutpaoq5287svl6d504f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaZf7srV-1qF2nOYuyWpSVk_o_7pPa1Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433865927224-dcbm7q927608rutpaoq5287svl6d504f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
