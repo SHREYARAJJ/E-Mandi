@@ -42,6 +42,7 @@ public class AdminAddNewProductActivity extends AppCompatActivity {
     private DatabaseReference ProductsRef;
     private ProgressDialog loadingBar;
 
+    //code start from
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
